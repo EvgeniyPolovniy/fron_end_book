@@ -13,7 +13,7 @@ float: left | right | none | inherit;
 
 Направление float потока
 
-![](docs/float1.png)
+![](img/float1.png)
 
 ```css
 clear: none | left | right | both | inherit;
