@@ -1,6 +1,6 @@
 #Table of Contents
 
-- **[Emmet](tree/master/book/emmet)**
+- **[Emmet](https://github.com/EvgeniyPolovniy/fron_end_book/tree/master/book/emmet)**
 - **[Pre- and Post- processors](#pre--and-post--processors)**
 - **[Responsive CSS Framework](#responsive-css-framework)**
 - **[CSS float property](#css-float-property)**
