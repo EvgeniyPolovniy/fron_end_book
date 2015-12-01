@@ -12,7 +12,7 @@
 ##Gulp
 projectBasePath/package.json
 
-![](docs/gulp1.png)
+![](img/gulp1.png)
 
 ```json
 {
@@ -163,6 +163,6 @@ gulp.task('scss:compile', ['scss:merge'], function (cb) {
 
 Выполнение сборки проекта
 
-![](docs/gulp.gif)
+![](img/gulp.gif)
 
 **[Содержание](https://github.com/EvgeniyPolovniy/fron_end_book)**
