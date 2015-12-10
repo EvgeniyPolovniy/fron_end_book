@@ -5,7 +5,7 @@
 
 Для преобразование аббревиатуры в код необходимо нажать клавишу TAB.
 
-#### Doctype
+### Doctype
 
 html:5 или ! для HTML5 doctype
 
@@ -52,7 +52,7 @@ html:4s для HTML4 strict doctype
 </html>
 ```
 
-#### class и id
+### class и id
 
 div.content
 
@@ -66,7 +66,7 @@ section#main.user
 <section id="main" class="user"></section>
 ```
 
-#### Атрибуты и контент
+### Аттрибуты и контент
 
 a.link[href=http://google.com]{google}
 
