@@ -55,7 +55,9 @@ html:4s для HTML4 strict doctype
 #### class и id
 
 div.content
+
 span#search
+
 section#main.user
 
 ```html
@@ -67,6 +69,7 @@ section#main.user
 #### Атрибуты и контент
 
 a.link[href=http://google.com]{google}
+
 img.avatar[src=./default_avatar.jpg][alt=avatar][title=avatar]
 
 ```html
