@@ -144,7 +144,23 @@ p>span^ul>.item-$*2
 </div>
 ```
 
+### Lorem
+
+p*3>lorem5
+
+Цифра в конце слова lorem означает количество генерируемых слов
+
+```html
+<p>Lorem ipsum dolor sit amet.</p>
+<p>Aperiam quos quasi itaque, repudiandae.</p>
+<p>Veniam blanditiis maxime molestias veritatis!</p>
+```
+
 ### CSS аббревиатуры
+
+Для всех css свойст есть сокращения, IDE их обычно подсказывают.
+
+Значение px ставится по умолчанию. Для всех других нужно использовать или аббревиатуру, или полное обозначение
 
 .class {
   w50+h10p+lh2e
