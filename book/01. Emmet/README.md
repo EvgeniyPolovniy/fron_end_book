@@ -13,9 +13,7 @@
 - option для select и optgroup
 - span для p
 
-<ul>
-  .item
-</ul>
+ul>.item
 
 ```html
 <ul>
