@@ -144,4 +144,18 @@ p>span^ul>.item-$*2
 </div>
 ```
 
+### CSS аббревиатуры
+
+.class {
+  w50+h10p+lh2e
+}
+
+```css
+.class {
+  width: 50px;
+  height: 10%;
+  line-height: 2em;
+}
+```
+
 **[Содержание](https://github.com/EvgeniyPolovniy/fron_end_book)**
