@@ -68,12 +68,12 @@ section#main.user
 
 ### Аттрибуты и контент
 
-a.link[href=http://google.com]{google}
+a.link[href=//google.com]{google}
 
 img.avatar[src=./default_avatar.jpg][alt=avatar][title=avatar]
 
 ```html
-<a href="http://google.com" class="link">google</a>
+<a href="//google.com" class="link">google</a>
 <img src="./default_avatar.jpg" alt="avatar" class="avatar" title="avatar">
 ```
 
