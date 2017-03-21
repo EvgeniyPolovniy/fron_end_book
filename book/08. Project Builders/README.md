@@ -23,10 +23,6 @@ projectBasePath/package.json
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@gitlab.a2a.co:webinerds/tishman.git"
-  },
   "author": "Max Klishevych",
   "license": "ISC",
   "devDependencies": {
